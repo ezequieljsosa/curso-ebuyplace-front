@@ -14,7 +14,6 @@ class App extends React.Component {
 
     render() {
 console.log(process.env.REACT_APP_ALGO)
-console.log("hola")
 
         return (
             <div>
