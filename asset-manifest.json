@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso-ebuyplace-front/static/css/main.073c9b0a.css",
+    "main.js": "/curso-ebuyplace-front/static/js/main.feb049a6.js",
+    "static/js/787.86c898f3.chunk.js": "/curso-ebuyplace-front/static/js/787.86c898f3.chunk.js",
+    "index.html": "/curso-ebuyplace-front/index.html",
+    "main.073c9b0a.css.map": "/curso-ebuyplace-front/static/css/main.073c9b0a.css.map",
+    "main.feb049a6.js.map": "/curso-ebuyplace-front/static/js/main.feb049a6.js.map",
+    "787.86c898f3.chunk.js.map": "/curso-ebuyplace-front/static/js/787.86c898f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.feb049a6.js"
+  ]
+}
